@@ -30,8 +30,8 @@ intents.guilds = True
 
 bot = commands.Bot(command_prefix="!", intents=intents)
 
-VOICE_CHANNEL_ID = 1538574993573806150 
-TEXT_CHANNEL_ID = 1538574993573806150   
+VOICE_CHANNEL_ID = 1538575143301808238 
+TEXT_CHANNEL_ID = 1538575143301808238   
 LOG_CHANNEL_ID = 1425806157120929814  # 👈 استبدل الرقم بـ ID روم اللوق
 
 current_volume = 1.0  # الصوت الافتراضي (100%)
